@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|e:\\docencia\\ucb\\arquitectura de sw\\12026\\1erec\\solucionexamencleancode\\solucionexamencleancode\\validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|solutionrelative:solucionexamencleancode\\validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EstablecimientoPublico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Establecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EmpresaControlVectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\solucionexamencleancode\\establecimientopublico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|solutionrelative:solucionexamencleancode\\establecimientopublico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\solucionexamencleancode\\establecimientovectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|solutionrelative:solucionexamencleancode\\establecimientovectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\solucionexamencleancode\\establecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|solutionrelative:solucionexamencleancode\\establecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\ResolucionDiagnostico\\ResolucionDiagnostico\\Chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\solucionexamencleancode\\equipofumigacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|solutionrelative:solucionexamencleancode\\equipofumigacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\solucionexamencleancode\\iestablecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|solutionrelative:solucionexamencleancode\\iestablecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\ResolucionDiagnostico\\ResolucionDiagnostico\\ICalculableLiquidoPagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\solucionexamencleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A9914D-ABB7-4535-957D-336770CB8326}|SolucionExamenCleanCode\\SolucionExamenCleanCode.csproj|solutionrelative:solucionexamencleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Program.cs",
+              "RelativeDocumentMoniker": "..\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Program.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Program.cs",
+              "RelativeToolTip": "..\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:36:31.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstablecimientoPublico.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EstablecimientoPublico.cs",
+              "RelativeDocumentMoniker": "..\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EstablecimientoPublico.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EstablecimientoPublico.cs",
+              "RelativeToolTip": "..\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EstablecimientoPublico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:36:31.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Establecimiento.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Establecimiento.cs",
+              "RelativeDocumentMoniker": "..\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Establecimiento.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Establecimiento.cs",
+              "RelativeToolTip": "..\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\Establecimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:36:31.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpresaControlVectores.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EmpresaControlVectores.cs",
+              "RelativeDocumentMoniker": "..\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EmpresaControlVectores.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EmpresaControlVectores.cs",
+              "RelativeToolTip": "..\\1erExamen\\Carvajal_Gusman_Camila_Adriana\\Carvajal_Gusman_Camila_Adriana\\EmpresaControlVectores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:36:31.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validaciones.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\Validaciones.cs",
+              "RelativeDocumentMoniker": "SolucionExamenCleanCode\\Validaciones.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\Validaciones.cs",
+              "RelativeToolTip": "SolucionExamenCleanCode\\Validaciones.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:37:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstablecimientoPublico.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\EstablecimientoPublico.cs",
+              "RelativeDocumentMoniker": "SolucionExamenCleanCode\\EstablecimientoPublico.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\EstablecimientoPublico.cs",
+              "RelativeToolTip": "SolucionExamenCleanCode\\EstablecimientoPublico.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:25:49.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\ResolucionDiagnostico\\ResolucionDiagnostico\\Chef.cs",
+              "RelativeDocumentMoniker": "..\\ResolucionDiagnostico\\ResolucionDiagnostico\\Chef.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\ResolucionDiagnostico\\ResolucionDiagnostico\\Chef.cs",
+              "RelativeToolTip": "..\\ResolucionDiagnostico\\ResolucionDiagnostico\\Chef.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:21:35.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipoFumigacion.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\EquipoFumigacion.cs",
+              "RelativeDocumentMoniker": "SolucionExamenCleanCode\\EquipoFumigacion.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\EquipoFumigacion.cs",
+              "RelativeToolTip": "SolucionExamenCleanCode\\EquipoFumigacion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:14:05.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstablecimientoVectores.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\EstablecimientoVectores.cs",
+              "RelativeDocumentMoniker": "SolucionExamenCleanCode\\EstablecimientoVectores.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\EstablecimientoVectores.cs",
+              "RelativeToolTip": "SolucionExamenCleanCode\\EstablecimientoVectores.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA/wC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:11:29.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICalculableLiquidoPagable.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\ResolucionDiagnostico\\ResolucionDiagnostico\\ICalculableLiquidoPagable.cs",
+              "RelativeDocumentMoniker": "..\\ResolucionDiagnostico\\ResolucionDiagnostico\\ICalculableLiquidoPagable.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\ResolucionDiagnostico\\ResolucionDiagnostico\\ICalculableLiquidoPagable.cs",
+              "RelativeToolTip": "..\\ResolucionDiagnostico\\ResolucionDiagnostico\\ICalculableLiquidoPagable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:54:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEstablecimiento.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\IEstablecimiento.cs",
+              "RelativeDocumentMoniker": "SolucionExamenCleanCode\\IEstablecimiento.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\IEstablecimiento.cs",
+              "RelativeToolTip": "SolucionExamenCleanCode\\IEstablecimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:40:21.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Establecimiento.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\Establecimiento.cs",
+              "RelativeDocumentMoniker": "SolucionExamenCleanCode\\Establecimiento.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\Establecimiento.cs",
+              "RelativeToolTip": "SolucionExamenCleanCode\\Establecimiento.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwC0AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T17:34:53.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\Program.cs",
+              "RelativeDocumentMoniker": "SolucionExamenCleanCode\\Program.cs",
+              "ToolTip": "E:\\Docencia\\UCB\\Arquitectura de SW\\12026\\1erEC\\SolucionExamenCleanCode\\SolucionExamenCleanCode\\Program.cs",
+              "RelativeToolTip": "SolucionExamenCleanCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:37:57.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
